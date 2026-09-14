@@ -335,9 +335,6 @@ export default function SocialLoginModal({
                 <p className="text-xs text-rose-200/90 max-w-md mx-auto leading-relaxed">
                   You entered information into a simulated untrusted login page! In a real attack, your credentials would have been captured by threat actors.
                 </p>
-                <div className="inline-block text-[10px] font-mono font-bold text-emerald-400 bg-emerald-950/40 border border-emerald-500/30 px-3 py-1 rounded-full mt-1">
-                  ✓ SENSITIVE DATA DISCARDED SAFELY FROM MEMORY
-                </div>
               </div>
 
               {/* Red Flags Enumeration */}
